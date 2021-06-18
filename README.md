@@ -1,5 +1,5 @@
 
-<a href="url"><img src="https://github.com/Raii-Azevedo/IMC/blob/master/WhatsApp%20Video%202021-06-18%20at%2015.00.39.gif" align="left" height="48" width="48" ></a>
+<a href="url"><img src="https://github.com/Raii-Azevedo/IMC/blob/master/WhatsApp%20Video%202021-06-18%20at%2015.00.39.gif" align="left" height="480" width="480" ></a>
  
 ## App IMC
  
